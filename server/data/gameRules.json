@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Matt's General Store",
+    "type": "shop",
+    "content": "Matt sells: Oxen ($40/yoke), Food ($0.20/lb), Clothing ($10/set), Ammo ($2/box), and Spare Parts ($10 each). He recommends 3 yoke of oxen and 200lbs of food per person."
+  },
+  {
+    "title": "River Crossing Mechanics",
+    "type": "mechanic",
+    "content": "To cross a river, the player has 3 choices: Ford, Caulk, or Ferry. Fording deep water (>3ft) has a 50% chance of drowning oxen. Caulking floats the wagon but takes 1 day. The Ferry costs $5.00 but is 100% safe."
+  },
+  {
+    "title": "Kansas River Crossing",
+    "type": "location",
+    "content": "The Kansas River is a wide, muddy river. It is currently 4 feet deep. The ferry operator is asking for $5.00 to take you across. You can try to ford it, but the water is high."
+  },
+  {
+    "title": "Snakebite",
+    "type": "hazard",
+    "content": "A snakebite is a sudden event. It reduces health by 10 immediately. If untreated with a medical kit, the player loses 5 health per day. Rest does not cure snakebites."
+  },
+  {
+    "title": "Dysentery",
+    "type": "hazard",
+    "content": "Dysentery is caused by drinking bad water. It reduces health by 15 per day. It can be cured by 'Antibiotics' or 'Clean Water' if the player has them in inventory. Without treatment, death is likely within 4 days."
+  },
+  {
+    "title": "Broken Wagon Wheel",
+    "type": "hazard",
+    "content": "A wagon wheel has cracked. You cannot move until it is fixed. If you have a 'Spare Wheel', you can replace it in 1 hour. If not, you must trade 3 sets of clothing to a passing wagon to get one."
+  },
+  {
+    "title": "Chimney Rock",
+    "type": "landmark",
+    "content": "Chimney Rock is a famous landmark. It is a towering spire of rock that signals the end of the plains. Travelers often stop here to rest. Resting here restores +10 Health."
+  },
+  {
+    "title": "Fort Laramie",
+    "type": "fort",
+    "content": "Fort Laramie is a military outpost. You can buy supplies here, but prices are 50% higher than in Independence. You can also trade with soldiers."
+  },
+  {
+    "title": "Hunting Mechanics",
+    "type": "mechanic",
+    "content": "When hunting, the player types 'BANG'. If they type it within 2 seconds, they kill a bison (200lbs food). If they take longer, they kill a rabbit (5lbs food). You can only carry 100lbs back to the wagon."
+  },
+  {
+    "title": "Blizzard Conditions",
+    "type": "weather",
+    "content": "If the date is after October 1st, blizzards can occur in the mountains. A blizzard stops travel for 2 days and reduces health by 20 unless the player has 'Warm Clothing'."
+  },
+  {
+    "title": "Thief",
+    "type": "hazard",
+    "content": "A thief sneaks into camp at night. They can steal 50lbs of food or 1 ox. Having a 'Guard Dog' prevents this event."
+  }
+]

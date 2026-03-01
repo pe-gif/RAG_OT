@@ -1,0 +1,13 @@
+{
+  "name": "RAG_OT",
+  "version": "1.0.0",
+  "scripts": {
+    "install-all": "cd server && npm install && cd ../client && npm install",
+    "seed": "cd server && node seed.js",
+    "dev": "concurrently \"cd server && node server.js\" \"cd client && npm run dev\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+  
+}
